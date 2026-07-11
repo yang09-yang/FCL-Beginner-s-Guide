@@ -5,7 +5,7 @@ import styles from './index.module.css';
 
 const features = [
   { title: '首页', desc: '下载 APK、安装、权限设置', link: '/docs/intro', icon: '📦' },
-  { title: '手机小白必看', desc: '如何选择和下载游戏版本', link: '/docs/手机小白必看', icon: '📱' },
+  { title: '手机小白必看', desc: '如何选择和下载游戏版本', link: '/docs/手机小白必看/intro', icon: '📱' },
 ];
 
 export default function Home() {
